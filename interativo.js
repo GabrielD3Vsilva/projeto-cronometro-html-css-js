@@ -4,7 +4,7 @@ var hour = 00
 var interval
 
 function start() {
-    interval = setInterval(watch, 10)
+    interval = setInterval(watch, 1000)
 }
 
 function pause() {
